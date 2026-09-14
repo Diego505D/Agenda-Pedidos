@@ -1,0 +1,20 @@
+{
+  "name": "agenda-pedidos-api",
+  "version": "1.0.0",
+  "description": "API para la Agenda de Pedidos a Domicilio usando JSON Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "api",
+    "json-server",
+    "agenda",
+    "pedidos"
+  ],
+  "author": "Diego",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
